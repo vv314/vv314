@@ -1,6 +1,3 @@
-<img width="656" alt="🐟" src="https://user-images.githubusercontent.com/7637375/147389399-ad6486d5-1142-410c-9a13-d06e2a2623a0.png">
-
-
 ### Hi there 👋
 
 <!--
